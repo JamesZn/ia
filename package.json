@@ -1,0 +1,19 @@
+{
+  "name": "ia",
+  "version": "1.0.0",
+  "description": "its a super awesome thing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesZn/ia.git"
+  },
+  "author": "James 'the sexy' Cartwright",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesZn/ia/issues"
+  },
+  "homepage": "https://github.com/JamesZn/ia#readme"
+}
